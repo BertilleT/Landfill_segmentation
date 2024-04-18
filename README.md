@@ -4,7 +4,7 @@ Students: Rim El Mallah and Bertille Temple.
 
 ## Organisation Tree
 
-### `Report.pdf`
+### `RS_report.pdf`
 This PDF file is the report made for the project of the MVA course "Remote Sensing Data," delivered in April 2024.
 
 ### `Data`
